@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.My_game" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#5A3472</item>
+    </style>
+
+    <style name="Theme.My_game" parent="Base.Theme.My_game">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
